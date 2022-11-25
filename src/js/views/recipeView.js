@@ -50,4 +50,4 @@ class RecipeView extends View {
 
 export default new RecipeView();
 
-console.log("It's working!");
+console.log("It's working fine!");
